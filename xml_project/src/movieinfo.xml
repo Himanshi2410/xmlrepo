@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE movies SYSTEM "movies.dtd" >
+<movies>
+  <movie>
+    <code>101</code>
+    <title>URI</title>
+    <release-date>
+    <day>24</day>
+    <month>10</month>
+    <year>2019</year>
+     </release-date>
+     <theater-name>PVR</theater-name>
+     <theater-name>VELOCITY</theater-name>
+     <city>INDORE</city>
+     <city>PUNE</city>
+     <movie>
+    <code>102</code>
+     <title>KABIR-SINGH</title>
+     <theater-name>PVR</theater-name>
+     </movie>
+  </movie>
+</movies>
