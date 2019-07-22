@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zen:movies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:zen="http://www.zensar.com/movies" xsi:schemaLocation="http://www.zensar.com/movies movies.xsd ">
+  <zen:movie>
+    <zen:code>5001</zen:code>
+    <zen:title>zen:URI</zen:title>
+    <zen:theater-name>zen:PVR</zen:theater-name>
+    <zen:city>Indore</zen:city>
+    </zen:movie>
+    <zen:movie>
+    <zen:code>5002</zen:code>
+    <zen:title>zen:BIRD-BOX</zen:title>
+    <zen:theater-name>zen:sapna-sangetta</zen:theater-name>
+    <zen:city>zen:pune</zen:city>
+    
+</zen:movie>
+</zen:movies>
+
+
